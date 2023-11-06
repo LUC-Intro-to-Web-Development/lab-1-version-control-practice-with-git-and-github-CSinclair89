@@ -1,5 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12741487&assignment_repo_type=AssignmentRepo)
 
+<h1>Full-stack Nodejs Boxing Stat App</h1>
+<p>This application will display boxing data on current and previous boxing professionals. Lab 1 is focused on project set-up and version control. Lab 2 focuses on working with Express framework the user to Create, Retrieve, Update and Delete Boxing data.</p>
+
 # Lab 1 Version Control Practice with Git and GitHub
 
 **Directions**
